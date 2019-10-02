@@ -1,0 +1,22 @@
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  align: center;
+
+
+
+}
+
+.flex-item{
+  padding: 25px;
+  align: center;
+}
+
+img {
+  height: 125px;
+}
+
+
+
+
+class and laptop= is the left side
